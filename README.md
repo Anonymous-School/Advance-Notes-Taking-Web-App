@@ -1,5 +1,5 @@
 # Advance-Notes-Taking-Web-App
-## Live Preview : [Click Here](https://anonymous-school.github.io/Frontend-Mentor-Shortly-URL-shortening-Api/)
+## Live Preview : [Click Here](https://anonymous-school.github.io/Advance-Notes-Taking-Web-App/)
 
 
 ![Design preview for the Shortly URL shortening API coding challenge](/img-1.png)
